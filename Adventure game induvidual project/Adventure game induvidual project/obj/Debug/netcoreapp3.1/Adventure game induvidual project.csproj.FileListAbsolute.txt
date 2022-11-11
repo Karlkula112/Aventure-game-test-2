@@ -1,0 +1,14 @@
+C:\Users\karll\source\repos\Adventure game induvidual project\Adventure game induvidual project\bin\Debug\netcoreapp3.1\Adventure game induvidual project.exe
+C:\Users\karll\source\repos\Adventure game induvidual project\Adventure game induvidual project\bin\Debug\netcoreapp3.1\Adventure game induvidual project.deps.json
+C:\Users\karll\source\repos\Adventure game induvidual project\Adventure game induvidual project\bin\Debug\netcoreapp3.1\Adventure game induvidual project.runtimeconfig.json
+C:\Users\karll\source\repos\Adventure game induvidual project\Adventure game induvidual project\bin\Debug\netcoreapp3.1\Adventure game induvidual project.runtimeconfig.dev.json
+C:\Users\karll\source\repos\Adventure game induvidual project\Adventure game induvidual project\bin\Debug\netcoreapp3.1\Adventure game induvidual project.dll
+C:\Users\karll\source\repos\Adventure game induvidual project\Adventure game induvidual project\bin\Debug\netcoreapp3.1\Adventure game induvidual project.pdb
+C:\Users\karll\source\repos\Adventure game induvidual project\Adventure game induvidual project\obj\Debug\netcoreapp3.1\Adventure game induvidual project.csproj.AssemblyReference.cache
+C:\Users\karll\source\repos\Adventure game induvidual project\Adventure game induvidual project\obj\Debug\netcoreapp3.1\Adventure game induvidual project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karll\source\repos\Adventure game induvidual project\Adventure game induvidual project\obj\Debug\netcoreapp3.1\Adventure game induvidual project.AssemblyInfoInputs.cache
+C:\Users\karll\source\repos\Adventure game induvidual project\Adventure game induvidual project\obj\Debug\netcoreapp3.1\Adventure game induvidual project.AssemblyInfo.cs
+C:\Users\karll\source\repos\Adventure game induvidual project\Adventure game induvidual project\obj\Debug\netcoreapp3.1\Adventure game induvidual project.csproj.CoreCompileInputs.cache
+C:\Users\karll\source\repos\Adventure game induvidual project\Adventure game induvidual project\obj\Debug\netcoreapp3.1\Adventure game induvidual project.dll
+C:\Users\karll\source\repos\Adventure game induvidual project\Adventure game induvidual project\obj\Debug\netcoreapp3.1\Adventure game induvidual project.pdb
+C:\Users\karll\source\repos\Adventure game induvidual project\Adventure game induvidual project\obj\Debug\netcoreapp3.1\Adventure game induvidual project.genruntimeconfig.cache
